@@ -1,0 +1,1 @@
+# eslint-config-is2ei
