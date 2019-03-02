@@ -18,5 +18,8 @@
     },
     "peerDependencies": {
         "eslint": ">= 3"
+    },
+    "dependencies": {
+        "eslint": ">= 3"
     }
 }
