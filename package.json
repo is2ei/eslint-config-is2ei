@@ -1,0 +1,22 @@
+{
+    "name": "eslint-config-is2ei",
+    "version": "0.1.0",
+    "description": "ESLint Shareable Config",
+    "keywords": [
+        "eslint",
+        "eslintconfig"
+    ],
+    "author": "Issei Horie",
+    "license": "MIT",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/is2ei/eslint-config-is2ei"
+    },
+    "engines": {
+        "node": ">= 4"
+    },
+    "peerDependencies": {
+        "eslint": ">= 3"
+    }
+}
