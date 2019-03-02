@@ -13,6 +13,9 @@
         "type": "git",
         "url": "https://github.com/is2ei/eslint-config-is2ei"
     },
+    "scripts": {
+        "test": "eslint ./"
+    },
     "engines": {
         "node": ">= 4"
     },
