@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-is2ei",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "ESLint Shareable Config",
     "keywords": [
         "eslint",
