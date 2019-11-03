@@ -9,4 +9,5 @@ env:
   - ESLINT_VERSION="6.4.0"
 
 script:
+  - npm install eslint@"$ESLINT_VERSION"
   - npm run lint
