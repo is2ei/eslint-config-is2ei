@@ -14,12 +14,16 @@
         "url": "https://github.com/is2ei/eslint-config-is2ei"
     },
     "scripts": {
-        "lint": "eslint ./"
+        "lint": "eslint ./",
+        "lint:fix": "eslint --fix ./"
     },
     "engines": {
         "node": ">= 4"
     },
     "peerDependencies": {
         "eslint": "^6.4.0"
+    },
+    "devDependencies": {
+        "eslint-plugin-eslint-plugin": "^2.1.0"
     }
 }
